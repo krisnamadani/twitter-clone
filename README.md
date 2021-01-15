@@ -1,4 +1,5 @@
 # twitter-clone
+tutorial link : https://www.youtube.com/watch?v=eue3jbwxQS0&t=13s
 
 ## Project setup
 ```
